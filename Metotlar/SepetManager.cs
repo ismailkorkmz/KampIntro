@@ -10,7 +10,7 @@ namespace Metotlar
         // sytax
         public void Ekle(Urun urun)
         {
-            Console.WriteLine("Tebrikler. Sepete eklendisdfs : "+ urun.Adi);
+            Console.WriteLine("Tebrikler. Sepete eklendi : "+ urun.Adi);
         }
 
         public void Ekle2(string urunAdi, string aciklama, double fiyat, int Stokadedi)
